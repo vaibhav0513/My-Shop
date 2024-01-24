@@ -1,0 +1,43 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung A23",
+            "price": 25000,
+            "category": "mobile",
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
+        },
+        {
+            "id": 2,
+            "name": "Samsung s23",
+            "price": 70000,
+            "category": "mobile",
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
+        },
+        {
+            "id": 1,
+            "name": "Samsung QLED TV",
+            "price": 125000,
+            "category": "tv",
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)."
+        },
+        {
+            "id": 1,
+            "name": "Washine Machine",
+            "price": 25000,
+            "category": "washing-machine",
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
+        }
+    ],
+    "inquery": [
+        {
+            "id": 1
+        },
+        {
+            "id": 2
+        },
+        {
+            "id": 3
+        }
+    ]
+}
